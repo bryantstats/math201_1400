@@ -1,0 +1,18 @@
+---
+output: # rmarkdown::github_document
+  html_document:
+  pdf_document: default
+  word_document: default
+title: "Assignment 1.  Sample vs. Population Approach" 
+---
+
+1. Form a research question that is possible to answer using the population approach. Identify the population data and explain why the population data may already exists or can be easily gathered. 
+
+Research Question: 
+
+2. Form a research question that is not very possible to answer using the population approach. Identify the population data and explain why the population data may not already exists nor can be easily gathered. 
+
+
+
+
+
