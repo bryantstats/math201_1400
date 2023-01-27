@@ -1,6 +1,6 @@
 
 ---
-title: "Sample vs. Population Approach"
+title: "Different Sampling Techniques"
 output:
   xaringan::moon_reader:
     lib_dir: libs
