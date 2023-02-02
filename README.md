@@ -5,7 +5,8 @@
 
 |Topics| Slides/Notes |Assignments |Extra Credits | 
 |:---|:---|:---|:---|
-|1. Introduction| [Notes](slides/1_notes.pdf) |[Assignment 1](assignments/assignment1.pdf) | |
+|1. Sampling Approach| [Notes](slides/1_notes.pdf) |[Assignment 1](assignments/assignment1.pdf) | |
+|2. Sampling Techniques| [Notes](slides/2_notes.pdf) |[Assignment 2](assignments/assignment2.pdf) | |
 
 
  
