@@ -7,6 +7,7 @@
 |:---|:---|:---|:---|
 |1. Sampling Approach| [Notes](slides/1_notes.pdf) |[Assignment 1](assignments/assignment1.pdf) | |
 |2. Sampling Techniques| [Notes](slides/2_notes.pdf) |[Assignment 2](assignments/assignment2.pdf) | |
+|3. Hypotheses| [Notes](slides/3_notes.pdf) |[Assignment 3](assignments/assignment3_2.pdf) | |
 
 
  
