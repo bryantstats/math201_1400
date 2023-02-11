@@ -1,0 +1,19 @@
+---
+output: # rmarkdown::github_document
+  pdf_document: default
+  html_document:
+  word_document: default
+title: "Assignment 4. One sample proportion population test" 
+---
+Work in pair. Write down your answers to all the questions. Show the instructor in class for credits. 
+
+
+1. Form a proportion population hypothesis about class of 2025 at Bryant. Write down both the null hypothesis (H0) and the alternative hypothesis (H1).
+
+2. Collect data from your classmates to test the hypothesis.  Your sample size must be at least 30. 
+
+3. Use Minitab to calculate the p-value.  Is the p-value small (less than .05)?  Does the data support your hypothesis?
+
+---
+
+
