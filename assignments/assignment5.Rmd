@@ -39,7 +39,7 @@ Step 4: Collect the data from your survey
 
 Step 5: Input the data to Minitab: Only copy the column containing the necessary data. Run the t-test for your hypothesis. Save the project file for submission. 
 
-
+You can run Minitab here (log in with your Bryant credential): https://app.minitab.com/
 
 ## 2. Submission:
 
