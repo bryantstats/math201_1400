@@ -1,0 +1,62 @@
+---
+output: # rmarkdown::github_document
+  html_document:
+  pdf_document: default
+  word_document: default
+title: "Assignment 5. One sample population mean test" 
+---
+
+---
+
+## 1. Instruction
+
+#### Work in pair. Do the follows the submit. Ask the instructor ANY question. 
+
+
+Step 1: Form a population mean hypothesis about class of 2026 at Bryant. Your hypothesis should use "More than" or "less than" a number.  For example: On average, class of 2026 sleep less than 8 hours a day.   Write down both the null hypothesis (H0) and the alternative hypothesis (H1).
+
+Step 2. Collect data to test the hypothesis
+
+- Design a survey:  You should ask a "numeric" question. In the previous example, a question could be:  On average, how many hours do you sleep a day?
+
+- Follow this instruction to create a qualtrics account
+
+https://is.bryant.edu/services/administrative-and-business/reporting-and-analytics/qualtrics/how-to-create-a-qualtrics-account
+
+- Create your qualtric survey to collect the necessary data to test your hypothesis
+
+
+- Post the link of your survey to Cancas in the announcement 
+
+
+Step 3: Respond to ALL surveys of your classmates
+
+
+Step 4: Collect the data from your survey
+
+- Export data from qualtric: https://www.qualtrics.com/support/survey-platform/data-and-analysis-module/data/download-data/export-data-overview/
+
+
+Step 5: Input the data to Minitab: Only copy the column containing the necessary data. Run the t-test for your hypothesis. Save the project file for submission. 
+
+
+
+## 2. Submission:
+
+1. Submit a word document that reports the follows. 
+
+-  Your hypothesis
+-  Screenshot of the test
+-  The p-value of the test and your conclusion of the test (Do the data support your hypothesis?)
+
+
+2. Submit the minitab project file. 
+
+3. Post a reply to the Canvas announcement that has the following
+
+-  Your hypothesis
+-  The p-value of the test and your conclusion of the test (Do the data support your hypothesis?)
+
+---
+
+
