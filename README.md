@@ -9,5 +9,5 @@
 |2. Sampling Techniques| [Notes](slides/2_notes.pdf) |[Assignment 2](assignments/assignment2.pdf) | |
 |3. Hypotheses| [Notes](slides/3_notes.pdf) |[Assignment 3](assignments/assignment3_2.pdf) | |
 |4. P-Values| [Notes](slides/4_notes.pdf) |[Assignment 4](assignments/assignment4.pdf) | | 
-|5. One sample Poppulation Mean test| [Video]() |[Assignment 5](assignments/assignment5.html) | | 
+|5. One sample Poppulation Mean test| [Video](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f04b0e7f-1428-40eb-9f10-afa901485333) |[Assignment 5](assignments/assignment5.html) | | 
  
