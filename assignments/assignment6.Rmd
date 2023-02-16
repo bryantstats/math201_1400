@@ -1,0 +1,44 @@
+---
+output: # rmarkdown::github_document
+  pdf_document: default
+  html_document:
+  word_document: default
+title: "Assignment 6. Type I, Type II erros and Significant Levels" 
+---
+
+Work individually. 
+
+
+1. Suppose we want to test a hypothesis ($H_1$) that exercises has positive affect on GPA. We collect data and find p-value = .0125
+
+
+Give the outcomes the test with the following significant levels ($\alpha$)
+
+a. $\alpha = .05$
+
+\
+
+b. $\alpha =.02$
+
+\
+
+c. $\alpha = .01$
+
+\
+
+2. State in sentences Type 1 and Type 2 when test the following hypotheses. 
+
+a. $H_0$: Mr. ABC is innocent. 
+
+\
+
+\
+
+
+b. $H_1$: Bryant graduates has a better chance of landing a job than graduates in Rhode Island
+
+\
+
+\
+
+c.  $H_0$: Smoking does not have affect on overall health
