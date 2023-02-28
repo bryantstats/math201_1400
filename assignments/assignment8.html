@@ -11,7 +11,7 @@
 
 
 
-<title>README</title>
+<title>Assignment 8. Two-Sample Tests</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -348,88 +348,100 @@ display: none;
 
 
 
+<h1 class="title toc-ignore">Assignment 8. Two-Sample Tests</h1>
 
 </div>
 
 
-<div id="math-201.-statistical-1-1400" class="section level1">
-<h1>Math 201. Statistical 1 (14:00)</h1>
-<p><a href="data/data.html">Data</a></p>
-<table>
-<colgroup>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Topics</th>
-<th align="left">Slides/Notes</th>
-<th align="left">Assignments</th>
-<th align="left">Extra Credits</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">1. Sampling Approach</td>
-<td align="left"><a href="slides/1_notes.pdf">Notes</a></td>
-<td align="left"><a href="assignments/assignment1.pdf">Assignment
-1</a></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">2. Sampling Techniques</td>
-<td align="left"><a href="slides/2_notes.pdf">Notes</a></td>
-<td align="left"><a href="assignments/assignment2.pdf">Assignment
-2</a></td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
-<td align="left">3. Hypotheses</td>
-<td align="left"><a href="slides/3_notes.pdf">Notes</a></td>
-<td align="left"><a href="assignments/assignment3_2.pdf">Assignment
-3</a></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">4. P-Values</td>
-<td align="left"><a href="slides/4_notes.pdf">Notes</a>, <a href="https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6a88cfd-7d28-496a-858b-afa9016412f8">Video</a></td>
-<td align="left"><a href="assignments/assignment4.pdf">Assignment
-4</a></td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
-<td align="left">5. One sample Poppulation Mean test</td>
-<td align="left"><a href="https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f04b0e7f-1428-40eb-9f10-afa901485333">Video</a></td>
-<td align="left"><a href="assignments/assignment5.html">Assignment
-5</a></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">6. Type 1 and Type 2 Errors</td>
-<td align="left"><a href="slides/6_notes.pdf">Notes</a></td>
-<td align="left"><a href="assignments/assignment6.pdf">Assignment
-6</a></td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
-<td align="left">7. Mean Estimation and Confidence Intervals</td>
-<td align="left"><a href="slides/7_notes.pdf">Notes</a></td>
-<td align="left"><a href="assignments/assignment7.pdf">Assignment
-7</a></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">8. Two-Sample Tests</td>
-<td align="left"><a href>Notes</a></td>
-<td align="left"><a href="assignments/assignment8.html">Assignment
-8</a></td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
-</div>
+<p>Work individually. Put your answer on a Word document. Write the test
+conclusion and screenshots Minitab for the results of the tests. Submit
+to Canvas for credits. Screenshots Minitab for the results of the
+tests.</p>
+<p><a href="student-mat.csv">This data</a> were obtained in a survey of
+students math and portuguese language courses in secondary school.
+Assume that the data is a random sample of secondary school students.
+Screenshots Minitab for the results of the tests.</p>
+<ol style="list-style-type: decimal">
+<li><p>Test if there is a difference in number of studying hours
+(studytime) between male and female students in secondary school. Report
+the p-value and your conclusion. Screenshots Minitab for the results of
+the tests.</p></li>
+<li><p>Test if female students study more hours than male students in
+secondary school. Report the p-value and your conclusion. Screenshots
+Minitab for the results of the tests.</p></li>
+<li><p>Test if the students who have access to Internet at home have a
+higher final grade than those who do not. Report the p-value and your
+conclusion. Screenshots Minitab for the results of the tests.</p></li>
+<li><p>Form two hypotheses comparing two groups and test for them. Write
+your H1 hypotheses. Report the p-value and your conclusion. Screenshots
+Minitab for the results of the tests.</p></li>
+</ol>
+<hr />
+<p>Data Description:</p>
+<p><a href="student-mat.csv">Download</a></p>
+<p>The data were obtained in a survey of students math and portuguese
+language courses in secondary school. It contains a lot of interesting
+social, gender and study information about students. The data has been
+modified for educational purpose.</p>
+<p>Content: Attributes for both student-mat.csv (Math course) and
+student-por.csv (Portuguese language course) datasets:</p>
+<ul>
+<li>school - student’s school (binary: ‘GP’ - Gabriel Pereira or ‘MS’ -
+Mousinho da Silveira)</li>
+<li>sex - student’s sex (binary: ‘F’ - female or ‘M’ - male)</li>
+<li>age - student’s age (numeric: from 15 to 22)</li>
+<li>address - student’s home address type (binary: ‘U’ - urban or ‘R’ -
+rural)</li>
+<li>famsize - family size (binary: ‘LE3’ - less or equal to 3 or ‘GT3’ -
+greater than 3)</li>
+<li>Pstatus - parent’s cohabitation status (binary: ‘T’ - living
+together or ‘A’ - apart)</li>
+<li>Medu - mother’s education (numeric: 0 - none, 1 - primary education
+(4th grade), 2 – 5th to 9th grade, 3 – secondary - education or 4 –
+higher education)</li>
+<li>Fedu - father’s education (numeric: 0 - none, 1 - primary education
+(4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher
+education)</li>
+<li>Mjob - mother’s job (nominal: ‘teacher’, ‘health’ care related,
+civil ‘services’ (e.g. administrative or police), ‘at_home’ or
+‘other’)</li>
+<li>Fjob - father’s job (nominal: ‘teacher’, ‘health’ care related,
+civil ‘services’ (e.g. administrative or police), ‘at_home’ or
+‘other’)</li>
+<li>reason - reason to choose this school (nominal: close to ‘home’,
+school ‘reputation’, ‘course’ preference or ‘other’)</li>
+<li>guardian - student’s guardian (nominal: ‘mother’, ‘father’ or
+‘other’)</li>
+<li>traveltime - home to school travel time (numeric: 1 - &lt;15 min., 2
+- 15 to 30 min., 3 - 30 min. to 1 hour, or 4 - &gt;1 hour)</li>
+<li>studytime - daily study time (hours)</li>
+<li>failures - number of past class failures (numeric: n if
+1&lt;=n&lt;3, else 4)</li>
+<li>schoolsup - extra educational support (binary: yes or no)</li>
+<li>famsup - family educational support (binary: yes or no)</li>
+<li>paid - extra paid classes within the course subject (Math or
+Portuguese) (binary: yes or no)</li>
+<li>activities - extra-curricular activities (binary: yes or no)</li>
+<li>nursery - attended nursery school (binary: yes or no)</li>
+<li>higher - wants to take higher education (binary: yes or no)</li>
+<li>internet - Internet access at home (binary: yes or no)</li>
+<li>romantic - with a romantic relationship (binary: yes or no)</li>
+<li>famrel - quality of family relationships (numeric: from 1 - very bad
+to 5 - excellent)</li>
+<li>freetime - free time after school (numeric: from 1 - very low to 5 -
+very high)</li>
+<li>goout - going out with friends (numeric: from 1 - very low to 5 -
+very high)</li>
+<li>Dalc - workday alcohol consumption (numeric: from 1 - very low to 5
+- very high)</li>
+<li>Walc - weekend alcohol consumption (numeric: from 1 - very low to 5
+- very high)</li>
+<li>health - current health status (numeric: from 1 - very bad to 5 -
+very good)</li>
+<li>absences - number of school absences (numeric: from 0 to 93)</li>
+<li>The grades are related with the course subject, Math or
+Portuguese:</li>
+</ul>
 
 
 
