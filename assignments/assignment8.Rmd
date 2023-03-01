@@ -8,6 +8,10 @@ title: "Assignment 8. Two-Sample Tests"
 
 Work individually. Put your answer on a Word document. Write the test conclusion and screenshots Minitab for the results of the tests. Submit to Canvas for credits. Screenshots Minitab for the results of the tests.
 
+The answers for questions 1 to 3 can be found at this link: [Answers](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5142b74a-1547-4865-b06d-afb70151ddae)
+
+You just need to do question 4 and follow the above instruction to submit. 
+
 [This data](student-mat.csv) were obtained in a survey of students math and portuguese language courses in secondary school. Assume that the data is a random sample of secondary school students. Screenshots Minitab for the results of the tests.
 
 1. Test if there is a difference in number of studying hours (studytime) between male and female students in secondary school. Report the p-value and your conclusion. Screenshots Minitab for the results of the tests.
