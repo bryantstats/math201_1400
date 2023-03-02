@@ -13,3 +13,4 @@
  |6. Type 1 and Type 2 Errors| [Notes](slides/6_notes.pdf) |[Assignment 6](assignments/assignment6.pdf) | |
 |7. Mean Estimation and Confidence Intervals| [Notes](slides/7_notes.pdf) |[Assignment 7](assignments/assignment7.pdf) | |
 |8. Two-Sample Tests| [Notes](slides/8_notes.pdf) |[Assignment 8](assignments/assignment8.html)||
+|9. One-sample vs. Two-Sample Tests| [Video]() |[Assignment 9](assignments/assignment9.html)||
