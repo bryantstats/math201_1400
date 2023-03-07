@@ -1,0 +1,46 @@
+---
+output: # rmarkdown::github_document
+  pdf_document: default
+  html_document:
+  word_document: default
+title: "Assignment 3. One-Sample Hypothesis" 
+---
+Work by yourself (You can discuss with your classmates and the instructor). Write down your answers here and show the instructor in class for credits. 
+
+
+1. State the null hypothesis and the alternative hypothesis in terms of the appropriate parameter ($\mu$ or $p$) for the follows. 
+
+- The mean number of years Americans work before retiring is 34.
+
+\ 
+
+- At most 60% of Americans vote in presidential elections.
+
+\ 
+
+- The mean starting salary for San Jose State University graduates is at least $100,000 per year.
+
+\ 
+
+- Twenty-nine percent of high school seniors get drunk each month.
+
+\ 
+
+- Fewer than 5% of adults ride the bus to work in Los Angeles.
+
+\ 
+
+
+2. Give three one-sample hypotheses for the population mean.  Write both the null hypothesis and the alternative hypothesis for each.
+
+\ 
+
+\
+
+3. Give three one-sample hypothesis for the population proportion. Write both the null hypothesis and the alternative hypothesis for each.
+
+
+\ 
+
+
+

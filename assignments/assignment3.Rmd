@@ -1,0 +1,17 @@
+---
+output: # rmarkdown::github_document
+  pdf_document: default
+  html_document:
+  word_document: default
+title: "Assignment 3. Sampling (2)" 
+---
+
+1. Form a simple hypothesis about our class.  
+
+2. Use the **stratified sampling** method to collect sample data with the sample size of 30% the population size. You could randomly select your classmates *for each group* in your sample to collect data. Please notice that the proportion of each group in your samples and the proportion of each group  in your population should be similar. 
+
+- Verify the hypothesis on the sample data.
+
+---
+
+Work in a group of no more than four. Write down your answers here and show the instructor in class for credits. All members of the group has to write down the group's answers. 

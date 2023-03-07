@@ -14,3 +14,4 @@
 |7. Mean Estimation and Confidence Intervals| [Notes](slides/7_notes.pdf) |[Assignment 7](assignments/assignment7.pdf) | |
 |8. Two-Sample Tests| [Notes](slides/8_notes.pdf), [Video](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=632d3661-a9cd-4f93-b503-afb9013a0685) |[Assignment 8](assignments/assignment8.html)||
 |9. One-sample vs. Two-Sample Tests| [Video]() |[Assignment 9](assignments/assignment9.html)||
+|Project: One-sample and Two-sample Tests| [Project](assignments/project1.html)  | | | 

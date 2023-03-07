@@ -1,0 +1,57 @@
+---
+output: # rmarkdown::github_document
+  pdf_document: default
+  html_document:
+  word_document: default
+title: "Assignment 7. Standard Errors and Confidence Intervals" 
+---
+
+Work individually. Write down your answers. Show the instructor for credits. 
+
+1. The following data is a sample of the numbers of sleeping hours of Bryant class 2026. Using the below data, what is the best estimation of the average sleeping hours of Bryant class 2026? Calculate it. What is the standard error of that estimation?
+
+Dataset 1 (Sample size n=10)
+
+| Numbers of sleeping hours |
+|---------------------------|
+| 9.00                      |
+| 7.00                      |
+| 7.00                      |
+| 8.00                      |
+| 8.00                      |
+| 8.00                      |
+| 8.00                      |
+| 7.00                      |
+| 7.00                      |
+| 8.00                      |
+
+2. The following data is a sample of the numbers of sleeping hours of Bryant class 2026.  Using the below data, what is the best estimation of the average sleeping hours of Bryant class 2026? Calculate it. What is the standard error of that estimation?
+
+Dataset 2 (n=15)
+
+| Numbers of sleeping hours |
+|---------------------------|
+| 9.00                      |
+| 7.00                      |
+| 7.00                      |
+| 8.00                      |
+| 8.00                      |
+| 8.00                      |
+| 8.00                      |
+| 7.00                      |
+| 7.00                      |
+| 8.00                      |
+| 7.00                      |
+| 8.00                      |
+| 6.00                      |
+| 6.67                      |
+| 8.00                      |
+
+3. Between the two estimations on Question 1 and 2, which one is the better estimation of the average sleeping hours of Bryant class 2026. 
+
+4. Calculate the 95% and 98% confidence interval of the average sleeping hours of Bryant class 2026.  in the dataset 2. Interpret the meaning of the calculated number.
+
+5. Calculate the 95% confidence interval of the mean in the data you collected in Assignment 5. Interpret the meaning of the calculated number. 
+
+6. Calculate the best estimation of the population mean in your Assignment 5 data. What is the standard error of the estimation?
+
