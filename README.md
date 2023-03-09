@@ -15,4 +15,4 @@
 |8. Two-Sample Tests| [Notes](slides/8_notes.pdf), [Video](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=632d3661-a9cd-4f93-b503-afb9013a0685) |[Assignment 8](assignments/assignment8.html)||
 |9. One-sample vs. Two-Sample Tests| [Video](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39fc6706-1c0f-42f2-b6d3-afbe014814a4) |[Assignment 9](assignments/assignment9.html)||
 |Project 1: One-sample and Two-sample Tests| [Project 1](assignments/project1.html)  | | | 
-|10. Sample Spaces and Probabilties| [Notes](), [Video]() |[Assignment 10](assignments/assignment10.pdf)||
+|10. Sample Spaces and Probabilties| [Notes](slides/7_notes.pdf) |[Assignment 10](assignments/assignment10.pdf)||
